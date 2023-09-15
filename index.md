@@ -1,13 +1,5 @@
-# **Deyjaun's Blog**
+# **Blog Intro**
 
+<p>Hello my name is Deyjaun Lawrence <br>I am Jamaican <br> I do Full Stack Developement and have a hard working personality <br>and most of all i make music and i am a gaming content creator
 
-
-```sql
-Monkey.D.Luffy * FROM 'One Piece'
-Where Location = Boat
-```
-1.Zoro
-2.Sanji
-3.Yami
-
-<p style="color: purple">Lock Off The Light<p>
+![A professional photo of me](/assets/family.jpg)
